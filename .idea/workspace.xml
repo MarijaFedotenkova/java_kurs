@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e58fefc9-66d5-48b5-81e3-1dd64a866e79" name="Changes" comment="" />
+    <list default="true" id="e58fefc9-66d5-48b5-81e3-1dd64a866e79" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_kurs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons/l/lessons1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons1/PrintTestMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons/l/lessons1/PrintTestMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons2/OperationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons2/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons2/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons2/Types.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons3/Classwork1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons3/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons3/TerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons3/TestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons3/dec2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons4/CharTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons4/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons4/JavaStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons4/ReferenxExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons4/StringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/lessons4/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/test/TestPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/telrun/khakov/rustam/test/TestPackage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,36 +40,47 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HbDL5otc8E2dgGu2JonBRifQyg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/java_kurs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/java_kurs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\java_kurs\src\de\telrun\khakov\rustam" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.telrun.khakov.rustam.lessons" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.StringExample">
-    <configuration name="CharTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.lessons4.CharTest" />
-      <module name="java_course" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.homework.homework7.Task1" />
+      <module name="java_kurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.khakov.rustam.lessons4.*" />
+          <option name="PATTERN" value="de.telrun.khakov.rustam.homework.homework7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.lessons4.JavaStringTest" />
-      <module name="java_course" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.homework.homework7.Task2" />
+      <module name="java_kurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.khakov.rustam.lessons4.*" />
+          <option name="PATTERN" value="de.telrun.khakov.rustam.homework.homework7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.lessons4.ReferenxExample" />
-      <module name="java_course" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.homework.homework7.Task3" />
+      <module name="java_kurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.khakov.rustam.lessons4.*" />
+          <option name="PATTERN" value="de.telrun.khakov.rustam.homework.homework7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.lessons4.StringExample" />
-      <module name="java_course" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.homework.homework7.Task4" />
+      <module name="java_kurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.khakov.rustam.lessons4.*" />
+          <option name="PATTERN" value="de.telrun.khakov.rustam.homework.homework7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +128,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.lessons4.Test" />
-      <module name="java_course" />
+      <option name="MAIN_CLASS_NAME" value="de.telrun.khakov.rustam.lessons.l.lessons8.Test" />
+      <module name="java_kurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.khakov.rustam.lessons4.*" />
+          <option name="PATTERN" value="de.telrun.khakov.rustam.lessons.l.lessons8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringExample" />
-        <item itemvalue="Application.JavaStringTest" />
-        <item itemvalue="Application.ReferenxExample" />
-        <item itemvalue="Application.CharTest" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +159,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668544834154</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1669747289492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669747289492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,5 +179,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>

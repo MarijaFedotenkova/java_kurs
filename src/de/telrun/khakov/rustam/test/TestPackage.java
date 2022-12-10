@@ -1,6 +1,6 @@
 package de.telrun.khakov.rustam.test;
 
-import de.telrun.khakov.rustam.lessons4.Flower;
+import de.telrun.khakov.rustam.lessons.l.lessons4.Flower;
 
 public class TestPackage {
     public static void main(String[] args) {
